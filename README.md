@@ -5,3 +5,4 @@
 <p>  Bootstrap</p>
 <p>  SQL</p>
 <hr/>
+<img src="gallerycover.png" width="100%"/>

@@ -1,0 +1,24 @@
+/* INTRO DIV CSS START  */
+.x-intro-div{
+    height: 20rem;
+    background-image: url('../img/upload-form-imgs/bg.jpg');
+    text-align: center;
+}
+.x-intro-title{
+    color: whitesmoke;
+    padding-top: 5rem;
+    font-size: 5rem;
+    font-family: 'The Nautigal', cursive;
+}
+/* INTRO DIV CSS END  */
+
+h5 {
+    font-family: 'Bebas Neue', cursive;
+    color: whitesmoke;
+}
+p{
+    font-family: 'Vujahday Script', cursive;
+    color: whitesmoke;
+}
+
+
